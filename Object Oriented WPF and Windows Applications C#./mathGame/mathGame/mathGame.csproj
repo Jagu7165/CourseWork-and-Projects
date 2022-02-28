@@ -1,0 +1,30 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Citylvl.jpg" />
+    <None Remove="Images\groundlvl.jfif" />
+    <None Remove="Images\lavalbl.jpg" />
+    <None Remove="Images\skylvl.png" />
+    <None Remove="lavalbl.jpg" />
+    <None Remove="skylvl.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Images\groundlvl.jfif" />
+    <Content Include="Images\lavalbl.jpg" />
+    <Content Include="Images\skylvl.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Citylvl.jpg" />
+    <Resource Include="lavalbl.jpg" />
+    <Resource Include="skylvl.png" />
+  </ItemGroup>
+
+</Project>

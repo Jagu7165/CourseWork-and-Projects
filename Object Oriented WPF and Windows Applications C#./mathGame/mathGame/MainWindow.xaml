@@ -1,0 +1,29 @@
+﻿<Window x:Class="mathGame.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:mathGame"
+        mc:Ignorable="d"
+        Title="Math Game" Height="450" Width="800">
+    <Grid>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="Black"/>
+                <GradientStop Color="#FF88C4C7" Offset="0.51"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Button Content="Start Game " HorizontalAlignment="Left" Margin="85,320,0,0" VerticalAlignment="Top" Height="68" Width="236" RenderTransformOrigin="0.714,0.721" FontSize="20" Click="Button_Click"/>
+        <TextBox Name ="Useraneme" HorizontalAlignment="Left" Margin="85,112,0,0" TextAlignment="Center" TextWrapping="Wrap" VerticalAlignment="Top" Width="236" RenderTransformOrigin="-0.196,0.893" Height="54" FontSize="22" TextChanged="TextBox_TextChanged"/>
+        <Label Content="Enter Your Name " HorizontalAlignment="Left" Margin="122,59,0,0" VerticalAlignment="Top" Width="162" FontSize="18" RenderTransformOrigin="0.73,1.401"/>
+        <Label Content="Enter Age" HorizontalAlignment="Left" Margin="85,232,0,0" VerticalAlignment="Top" Width="93" Height="46" FontSize="18"/>
+        <TextBox Name ="Age" HorizontalAlignment="Left" Margin="226,240,0,0" TextAlignment="Center" TextWrapping="Wrap" VerticalAlignment="Top" Width="58" Height="30" RenderTransformOrigin="0,0.454" FontSize="22" TextChanged="TextBox_TextChanged"/>
+        <RadioButton Name="Add" Content="Add" HorizontalAlignment="Left" Margin="464,139,0,0" VerticalAlignment="Top" Height="27" Width="163" FontSize="22" GroupName="Math"/>
+        <RadioButton Name="Subtract" Content="Subtract" HorizontalAlignment="Left" Margin="464,0,0,0" VerticalAlignment="Center" Height="27" Width="163" FontSize="22" GroupName="Math"/>
+        <RadioButton Name="Multiply" Content="Multiply" HorizontalAlignment="Left" Margin="464,271,0,0" VerticalAlignment="Top" Height="27" Width="163" FontSize="22" GroupName="Math"/>
+        <RadioButton Name="Divide" Content="Divide" HorizontalAlignment="Left" Margin="464,76,0,0" VerticalAlignment="Top" Height="27" Width="163" FontSize="22" GroupName="Math"/>
+        <Label Content="Select A Game " HorizontalAlignment="Left" Margin="503,35,0,0" VerticalAlignment="Top" Width="162" FontSize="18" RenderTransformOrigin="0.73,1.401"/>
+        <Label Name ="Warninglbl" Content="" HorizontalAlignment="Left" Margin="400,338,0,0" VerticalAlignment="Top" Width="326" FontSize="18" RenderTransformOrigin="0.73,1.401" Background="#FFF54A4A"/>
+
+    </Grid>
+</Window>
