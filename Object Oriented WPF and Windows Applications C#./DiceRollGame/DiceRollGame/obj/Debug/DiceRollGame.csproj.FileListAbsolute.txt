@@ -1,0 +1,10 @@
+C:\Users\Jorge\Documents\CS3280\DiceRollGame\DiceRollGame\bin\Debug\DiceRollGame.exe.config
+C:\Users\Jorge\Documents\CS3280\DiceRollGame\DiceRollGame\bin\Debug\DiceRollGame.exe
+C:\Users\Jorge\Documents\CS3280\DiceRollGame\DiceRollGame\bin\Debug\DiceRollGame.pdb
+C:\Users\Jorge\Documents\CS3280\DiceRollGame\DiceRollGame\obj\Debug\DiceRollGame.csproj.AssemblyReference.cache
+C:\Users\Jorge\Documents\CS3280\DiceRollGame\DiceRollGame\obj\Debug\DiceRollGame.Form1.resources
+C:\Users\Jorge\Documents\CS3280\DiceRollGame\DiceRollGame\obj\Debug\DiceRollGame.Properties.Resources.resources
+C:\Users\Jorge\Documents\CS3280\DiceRollGame\DiceRollGame\obj\Debug\DiceRollGame.csproj.GenerateResource.cache
+C:\Users\Jorge\Documents\CS3280\DiceRollGame\DiceRollGame\obj\Debug\DiceRollGame.csproj.CoreCompileInputs.cache
+C:\Users\Jorge\Documents\CS3280\DiceRollGame\DiceRollGame\obj\Debug\DiceRollGame.exe
+C:\Users\Jorge\Documents\CS3280\DiceRollGame\DiceRollGame\obj\Debug\DiceRollGame.pdb
