@@ -1,0 +1,10 @@
+C:\Users\Jorge\Documents\CS3280\Hw3\StudentGradesDisplay\StudentGradesDisplay\bin\Debug\StudentGradesDisplay.exe.config
+C:\Users\Jorge\Documents\CS3280\Hw3\StudentGradesDisplay\StudentGradesDisplay\bin\Debug\StudentGradesDisplay.exe
+C:\Users\Jorge\Documents\CS3280\Hw3\StudentGradesDisplay\StudentGradesDisplay\bin\Debug\StudentGradesDisplay.pdb
+C:\Users\Jorge\Documents\CS3280\Hw3\StudentGradesDisplay\StudentGradesDisplay\obj\Debug\StudentGradesDisplay.csproj.AssemblyReference.cache
+C:\Users\Jorge\Documents\CS3280\Hw3\StudentGradesDisplay\StudentGradesDisplay\obj\Debug\StudentGradesDisplay.Form1.resources
+C:\Users\Jorge\Documents\CS3280\Hw3\StudentGradesDisplay\StudentGradesDisplay\obj\Debug\StudentGradesDisplay.Properties.Resources.resources
+C:\Users\Jorge\Documents\CS3280\Hw3\StudentGradesDisplay\StudentGradesDisplay\obj\Debug\StudentGradesDisplay.csproj.GenerateResource.cache
+C:\Users\Jorge\Documents\CS3280\Hw3\StudentGradesDisplay\StudentGradesDisplay\obj\Debug\StudentGradesDisplay.csproj.CoreCompileInputs.cache
+C:\Users\Jorge\Documents\CS3280\Hw3\StudentGradesDisplay\StudentGradesDisplay\obj\Debug\StudentGradesDisplay.exe
+C:\Users\Jorge\Documents\CS3280\Hw3\StudentGradesDisplay\StudentGradesDisplay\obj\Debug\StudentGradesDisplay.pdb
